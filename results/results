@@ -1,0 +1,468 @@
+#
+# Results on Monday November 16 2020 13:52:22 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. clickworkerID.
+# 14. age.
+# 15. sex.
+# 16. L2.
+# 17. whichL2.
+# 18. item.
+# 19. type.
+# 20. version.
+# 21. letter.
+# 22. sentence.
+# 23. name.
+# 24. year.
+# 25. fact.
+# 26. photo.
+# 27. full_sentence.
+# 28. condition.
+# 29. life_mismatch.
+# 30. fact_mismatch.
+# 31. year_time.
+# 32. fact_time.
+# 33. year_fact.
+# 34. list.
+# 35. life_status.
+# 36. yes_key.
+# 37. occupation.
+# 38. withsquare.
+# 39. Comments.
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,0,0,demographics,NULL,PennController,0,_Trial_,Start,1605534584503,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,0,0,demographics,NULL,DropDown,language,Selected,nein,1605534600154,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,withsquare,0
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,0,0,demographics,NULL,PennController,0,_Trial_,End,1605534602422,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,demo,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,1,0,instructions1,NULL,PennController,1,_Trial_,Start,1605534602432,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,1,0,instructions1,NULL,PennController,1,_Trial_,End,1605534616107,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,withsquare,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,3,0,preloadCritical,NULL,PennController,Preloader-1,_Trial_,Start,1605534616119,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,3,0,preloadCritical,NULL,PennController,Preloader-1,_Trial_,End,1605534616119,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,4,0,preloadPost_task,NULL,PennController,Preloader-2,_Trial_,Start,1605534616124,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,4,0,preloadPost_task,NULL,PennController,Preloader-2,_Trial_,End,1605534616124,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. clickworkerID.
+# 14. age.
+# 15. sex.
+# 16. L2.
+# 17. whichL2.
+# 18. item.
+# 19. type.
+# 20. version.
+# 21. letter.
+# 22. sentence.
+# 23. name.
+# 24. year.
+# 25. fact.
+# 26. photo.
+# 27. full_sentence.
+# 28. condition.
+# 29. life_mismatch.
+# 30. fact_mismatch.
+# 31. year_time.
+# 32. fact_time.
+# 33. year_fact.
+# 34. list.
+# 35. life_status.
+# 36. yes_key.
+# 37. occupation.
+# 38. withsquare.
+# 39. Comments.
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,5,0,practice_trials,NULL,PennController,6,_Trial_,Start,1605534616129,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p1,practice,p,p,1p,Morgan Freeman,2004,Million Dollar Baby,Morgan_Freeman.jpg,x 2004 werde ich x x "Million Dollar Baby" x%2C x Morgan Freeman in einem Intervew.,full match,match,match,new,new,match,practice,living,F,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,5,0,practice_trials,NULL,Key,q_example_pic,PressedKey,J,1605534621381,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p1,practice,p,p,1p,Morgan Freeman,2004,Million Dollar Baby,Morgan_Freeman.jpg,x 2004 werde ich x x "Million Dollar Baby" x%2C x Morgan Freeman in einem Intervew.,full match,match,match,new,new,match,practice,living,F,Actors,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,5,0,practice_trials,NULL,PennController,6,_Trial_,End,1605534622186,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p1,practice,p,p,1p,Morgan Freeman,2004,Million Dollar Baby,Morgan_Freeman.jpg,x 2004 werde ich x x "Million Dollar Baby" x%2C x Morgan Freeman in einem Intervew.,full match,match,match,new,new,match,practice,living,F,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,6,0,practice_trials,NULL,PennController,7,_Trial_,Start,1605534622197,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p2,practice,p,p,2p,Zigmund Zigzag,1956,Rätselhaftes Rätsel,Rick_Mercer.jpg,x 1956 werde ich x x "Rätselhaftes Rätsel" x%2C x Zigmund Zigzag in einem Intervew.,fictional,fictional,fictional,fictional,fictional,fictional,practice,fake,F,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,6,0,practice_trials,NULL,Key,q_example_pic,PressedKey,J,1605534622595,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p2,practice,p,p,2p,Zigmund Zigzag,1956,Rätselhaftes Rätsel,Rick_Mercer.jpg,x 1956 werde ich x x "Rätselhaftes Rätsel" x%2C x Zigmund Zigzag in einem Intervew.,fictional,fictional,fictional,fictional,fictional,fictional,practice,fake,F,Actors,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,6,0,practice_trials,NULL,PennController,7,_Trial_,End,1605534623078,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p2,practice,p,p,2p,Zigmund Zigzag,1956,Rätselhaftes Rätsel,Rick_Mercer.jpg,x 1956 werde ich x x "Rätselhaftes Rätsel" x%2C x Zigmund Zigzag in einem Intervew.,fictional,fictional,fictional,fictional,fictional,fictional,practice,fake,F,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,7,0,practice_trials,NULL,PennController,8,_Trial_,Start,1605534623082,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p3,practice,p,p,3p,Franz Joseph I,1981,Österreich,Franz_Joseph_I.jpg,x 1981 werde ich x x "Österreich" x%2C x Franz Joseph I in einem Intervew.,life mismatch,mismatch,match,new,old,mismatch,practice,dead,F,emperor,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,7,0,practice_trials,NULL,Key,q_example_pic,PressedKey,J,1605534623475,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p3,practice,p,p,3p,Franz Joseph I,1981,Österreich,Franz_Joseph_I.jpg,x 1981 werde ich x x "Österreich" x%2C x Franz Joseph I in einem Intervew.,life mismatch,mismatch,match,new,old,mismatch,practice,dead,F,emperor,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,7,0,practice_trials,NULL,PennController,8,_Trial_,End,1605534624004,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p3,practice,p,p,3p,Franz Joseph I,1981,Österreich,Franz_Joseph_I.jpg,x 1981 werde ich x x "Österreich" x%2C x Franz Joseph I in einem Intervew.,life mismatch,mismatch,match,new,old,mismatch,practice,dead,F,emperor,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,8,0,practice_trials,NULL,PennController,9,_Trial_,Start,1605534624007,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p4,practice,p,p,4p,Jack Johnson,1964,Mary Poppins,Will_Smith.jpg,x 1964 werde ich x x "Mary Poppins" x%2C x Will Smith in einem Intervew.,life mismatch,mismatch,match,old,old,match,practice,living,F,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,8,0,practice_trials,NULL,Key,q_example_pic,PressedKey,J,1605534624613,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p4,practice,p,p,4p,Jack Johnson,1964,Mary Poppins,Will_Smith.jpg,x 1964 werde ich x x "Mary Poppins" x%2C x Will Smith in einem Intervew.,life mismatch,mismatch,match,old,old,match,practice,living,F,Actors,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,8,0,practice_trials,NULL,PennController,9,_Trial_,End,1605534625289,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,p4,practice,p,p,4p,Jack Johnson,1964,Mary Poppins,Will_Smith.jpg,x 1964 werde ich x x "Mary Poppins" x%2C x Will Smith in einem Intervew.,life mismatch,mismatch,match,old,old,match,practice,living,F,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,9,0,instructions2,NULL,PennController,2,_Trial_,Start,1605534625299,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,9,0,instructions2,NULL,PennController,2,_Trial_,End,1605534638039,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,withsquare,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. whichL2.
+# 17. item.
+# 18. type.
+# 19. item.
+# 20. version.
+# 21. letter.
+# 22. sentence.
+# 23. name.
+# 24. year.
+# 25. fact.
+# 26. full_sentence.
+# 27. condition.
+# 28. life_mismatch.
+# 29. fact_mismatch.
+# 30. list.
+# 31. type.
+# 32. occupation.
+# 33. withsquare.
+# 34. Comments.
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,Start,1605534638050,17 oder junger,&nbsp;weiblich&nbsp;,nein,,1,critical,1,3,a,3a,Judy Garland,1939,Der Zauberer von Oz,Im Jahr 1939 werde ich in dem Film "Der Zauberer von Oz" auftreten%2C das behauptete Judy Garland in einem Interview.,full match,match,match,11,critical,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,11,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534639493,17 oder junger,&nbsp;weiblich&nbsp;,nein,,1,critical,1,3,a,3a,Judy Garland,1939,Der Zauberer von Oz,Im Jahr 1939 werde ich in dem Film "Der Zauberer von Oz" auftreten%2C das behauptete Judy Garland in einem Interview.,full match,match,match,11,critical,Actors,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,11,0,critical_trials,NULL,PennController,11,_Trial_,End,1605534640512,17 oder junger,&nbsp;weiblich&nbsp;,nein,,1,critical,1,3,a,3a,Judy Garland,1939,Der Zauberer von Oz,Im Jahr 1939 werde ich in dem Film "Der Zauberer von Oz" auftreten%2C das behauptete Judy Garland in einem Interview.,full match,match,match,11,critical,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,71,0,critical_trials,NULL,PennController,71,_Trial_,Start,1605534640521,17 oder junger,&nbsp;weiblich&nbsp;,nein,,31,critical,31,123,c,123c,Rihanna,1965,Love the Way You Lie,Im Jahr 1965 werde ich das Lied "Love the Way You Lie" aufnehmen%2C das behauptete Rihanna auf einer Aftershowparty.,life mismatch,mismatch,match,11,critical,Musicians,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,71,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534640867,17 oder junger,&nbsp;weiblich&nbsp;,nein,,31,critical,31,123,c,123c,Rihanna,1965,Love the Way You Lie,Im Jahr 1965 werde ich das Lied "Love the Way You Lie" aufnehmen%2C das behauptete Rihanna auf einer Aftershowparty.,life mismatch,mismatch,match,11,critical,Musicians,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,71,0,critical_trials,NULL,PennController,71,_Trial_,End,1605534641881,17 oder junger,&nbsp;weiblich&nbsp;,nein,,31,critical,31,123,c,123c,Rihanna,1965,Love the Way You Lie,Im Jahr 1965 werde ich das Lied "Love the Way You Lie" aufnehmen%2C das behauptete Rihanna auf einer Aftershowparty.,life mismatch,mismatch,match,11,critical,Musicians,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,Start,1605534641891,17 oder junger,&nbsp;weiblich&nbsp;,nein,,2,critical,2,8,d,8d,Childish Gambino,1982,This Is America,Im Jahr 1982 werde ich das Lied "This Is America" aufnehmen%2C das verkündete Namika gegenüber der Presse.,life-fact mismatch,mismatch,mismatch,11,critical,Musicians,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,13,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534642309,17 oder junger,&nbsp;weiblich&nbsp;,nein,,2,critical,2,8,d,8d,Childish Gambino,1982,This Is America,Im Jahr 1982 werde ich das Lied "This Is America" aufnehmen%2C das verkündete Namika gegenüber der Presse.,life-fact mismatch,mismatch,mismatch,11,critical,Musicians,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,13,0,critical_trials,NULL,PennController,13,_Trial_,End,1605534643322,17 oder junger,&nbsp;weiblich&nbsp;,nein,,2,critical,2,8,d,8d,Childish Gambino,1982,This Is America,Im Jahr 1982 werde ich das Lied "This Is America" aufnehmen%2C das verkündete Namika gegenüber der Presse.,life-fact mismatch,mismatch,mismatch,11,critical,Musicians,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,83,0,critical_trials,NULL,PennController,83,_Trial_,Start,1605534643330,17 oder junger,&nbsp;weiblich&nbsp;,nein,,37,critical,37,148,a,148a,Heinrich Heine,1844,Deutschland. Ein Wintermärchen,Im Jahr 1844 werde ich das Buch "Deutschland. Ein Wintermärchen" publizieren%2C das berichtete Heinrich Heine einer Journalistin.,full match,match,match,11,critical,Authors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,83,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534643797,17 oder junger,&nbsp;weiblich&nbsp;,nein,,37,critical,37,148,a,148a,Heinrich Heine,1844,Deutschland. Ein Wintermärchen,Im Jahr 1844 werde ich das Buch "Deutschland. Ein Wintermärchen" publizieren%2C das berichtete Heinrich Heine einer Journalistin.,full match,match,match,11,critical,Authors,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,83,0,critical_trials,NULL,PennController,83,_Trial_,End,1605534644813,17 oder junger,&nbsp;weiblich&nbsp;,nein,,37,critical,37,148,a,148a,Heinrich Heine,1844,Deutschland. Ein Wintermärchen,Im Jahr 1844 werde ich das Buch "Deutschland. Ein Wintermärchen" publizieren%2C das berichtete Heinrich Heine einer Journalistin.,full match,match,match,11,critical,Authors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,30,0,critical_trials,NULL,PennController,30,_Trial_,Start,1605534644825,17 oder junger,&nbsp;weiblich&nbsp;,nein,,11,critical,11,42,c,42c,Marcello Mastroianni,1998,Das süße Leben,Im Jahr 1998 werde ich in dem Film "Das süße Leben" die Hauptrolle spielen%2C das behauptete Marcello Mastroianni auf dem roten Teppich.,life mismatch,mismatch,match,11,critical,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,30,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534645957,17 oder junger,&nbsp;weiblich&nbsp;,nein,,11,critical,11,42,c,42c,Marcello Mastroianni,1998,Das süße Leben,Im Jahr 1998 werde ich in dem Film "Das süße Leben" die Hauptrolle spielen%2C das behauptete Marcello Mastroianni auf dem roten Teppich.,life mismatch,mismatch,match,11,critical,Actors,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,30,0,critical_trials,NULL,PennController,30,_Trial_,End,1605534646977,17 oder junger,&nbsp;weiblich&nbsp;,nein,,11,critical,11,42,c,42c,Marcello Mastroianni,1998,Das süße Leben,Im Jahr 1998 werde ich in dem Film "Das süße Leben" die Hauptrolle spielen%2C das behauptete Marcello Mastroianni auf dem roten Teppich.,life mismatch,mismatch,match,11,critical,Actors,withsquare,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. whichL2.
+# 17. item.
+# 18. type.
+# 19. version.
+# 20. letter.
+# 21. sentence.
+# 22. name.
+# 23. year.
+# 24. fact.
+# 25. photo.
+# 26. full_sentence.
+# 27. condition.
+# 28. life_mismatch.
+# 29. fact_mismatch.
+# 30. list.
+# 31. life_status.
+# 32. yes_key.
+# 33. occupation.
+# 34. withsquare.
+# 35. Comments.
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,90,0,break,NULL,PennController,3,_Trial_,Start,1605534646992,17 oder junger,&nbsp;weiblich&nbsp;,nein,,break,break,break,break,break,break,break,break,break,break,break,break,break,break,break,break,break,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,90,0,break,NULL,PennController,3,_Trial_,End,1605534651590,17 oder junger,&nbsp;weiblich&nbsp;,nein,,break,break,break,break,break,break,break,break,break,break,break,break,break,break,break,break,break,withsquare,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. whichL2.
+# 17. item.
+# 18. type.
+# 19. item.
+# 20. version.
+# 21. letter.
+# 22. sentence.
+# 23. name.
+# 24. year.
+# 25. fact.
+# 26. full_sentence.
+# 27. condition.
+# 28. life_mismatch.
+# 29. fact_mismatch.
+# 30. list.
+# 31. type.
+# 32. occupation.
+# 33. withsquare.
+# 34. Comments.
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,56,0,critical_trials,NULL,PennController,56,_Trial_,Start,1605534651603,17 oder junger,&nbsp;weiblich&nbsp;,nein,,24,critical,24,93,b,93b,Chris Pratt,2014,Guardians of the Galaxy,Im Jahr 2014 werde ich in dem Film "Guardians of the Galaxy" die Hauptrolle spielen%2C das erzählte Benedict Cumberbatch interessierten Fans.,fact mismatch,match,mismatch,11,critical,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,56,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534652357,17 oder junger,&nbsp;weiblich&nbsp;,nein,,24,critical,24,93,b,93b,Chris Pratt,2014,Guardians of the Galaxy,Im Jahr 2014 werde ich in dem Film "Guardians of the Galaxy" die Hauptrolle spielen%2C das erzählte Benedict Cumberbatch interessierten Fans.,fact mismatch,match,mismatch,11,critical,Actors,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,56,0,critical_trials,NULL,PennController,56,_Trial_,End,1605534653378,17 oder junger,&nbsp;weiblich&nbsp;,nein,,24,critical,24,93,b,93b,Chris Pratt,2014,Guardians of the Galaxy,Im Jahr 2014 werde ich in dem Film "Guardians of the Galaxy" die Hauptrolle spielen%2C das erzählte Benedict Cumberbatch interessierten Fans.,fact mismatch,match,mismatch,11,critical,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,23,0,critical_trials,NULL,PennController,23,_Trial_,Start,1605534653391,17 oder junger,&nbsp;weiblich&nbsp;,nein,,7,critical,7,27,c,27c,Lionel Messi,1975,Fußball,Im Jahr 1975 werde ich das Turnier im Fußball gewinnen%2C das berichtete Lionel Messi einer Nachrichtenagentur.,life mismatch,mismatch,match,11,critical,Athletes,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,23,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534653814,17 oder junger,&nbsp;weiblich&nbsp;,nein,,7,critical,7,27,c,27c,Lionel Messi,1975,Fußball,Im Jahr 1975 werde ich das Turnier im Fußball gewinnen%2C das berichtete Lionel Messi einer Nachrichtenagentur.,life mismatch,mismatch,match,11,critical,Athletes,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,23,0,critical_trials,NULL,PennController,23,_Trial_,End,1605534654833,17 oder junger,&nbsp;weiblich&nbsp;,nein,,7,critical,7,27,c,27c,Lionel Messi,1975,Fußball,Im Jahr 1975 werde ich das Turnier im Fußball gewinnen%2C das berichtete Lionel Messi einer Nachrichtenagentur.,life mismatch,mismatch,match,11,critical,Athletes,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,24,0,critical_trials,NULL,PennController,24,_Trial_,Start,1605534654849,17 oder junger,&nbsp;weiblich&nbsp;,nein,,8,critical,8,29,b,29b,Brad Pitt,2019,Once Upon a Time in Hollywood,Im Jahr 2019 werde ich in dem Film "Once Upon a Time in Hollywood" auftreten%2C das teilte Joaquin Phoenix einer Journalistin mit.,fact mismatch,match,mismatch,11,critical,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,24,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534655269,17 oder junger,&nbsp;weiblich&nbsp;,nein,,8,critical,8,29,b,29b,Brad Pitt,2019,Once Upon a Time in Hollywood,Im Jahr 2019 werde ich in dem Film "Once Upon a Time in Hollywood" auftreten%2C das teilte Joaquin Phoenix einer Journalistin mit.,fact mismatch,match,mismatch,11,critical,Actors,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,24,0,critical_trials,NULL,PennController,24,_Trial_,End,1605534656283,17 oder junger,&nbsp;weiblich&nbsp;,nein,,8,critical,8,29,b,29b,Brad Pitt,2019,Once Upon a Time in Hollywood,Im Jahr 2019 werde ich in dem Film "Once Upon a Time in Hollywood" auftreten%2C das teilte Joaquin Phoenix einer Journalistin mit.,fact mismatch,match,mismatch,11,critical,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,Start,1605534656291,17 oder junger,&nbsp;weiblich&nbsp;,nein,,3,critical,3,12,c,12c,Mike Myers,1940,Austin Powers,Im Jahr 1940 werde ich in dem Film "Austin Powers" mitspielen%2C das meinte Mike Myers zu einem Reporter.,life mismatch,mismatch,match,11,critical,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,15,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534656677,17 oder junger,&nbsp;weiblich&nbsp;,nein,,3,critical,3,12,c,12c,Mike Myers,1940,Austin Powers,Im Jahr 1940 werde ich in dem Film "Austin Powers" mitspielen%2C das meinte Mike Myers zu einem Reporter.,life mismatch,mismatch,match,11,critical,Actors,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,15,0,critical_trials,NULL,PennController,15,_Trial_,End,1605534657690,17 oder junger,&nbsp;weiblich&nbsp;,nein,,3,critical,3,12,c,12c,Mike Myers,1940,Austin Powers,Im Jahr 1940 werde ich in dem Film "Austin Powers" mitspielen%2C das meinte Mike Myers zu einem Reporter.,life mismatch,mismatch,match,11,critical,Actors,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,49,0,critical_trials,NULL,PennController,49,_Trial_,Start,1605534657698,17 oder junger,&nbsp;weiblich&nbsp;,nein,,20,critical,20,80,b,80b,Henry Ford,1908,Ford Model T,Im Jahr 1908 werde ich meine Erfindung "Ford Model T" vermarkten%2C das schilderte Thomas Edison einer Tageszeitung.,fact mismatch,match,mismatch,11,critical,Creators,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,49,0,critical_trials,NULL,Key,question_pic,PressedKey,J,1605534658085,17 oder junger,&nbsp;weiblich&nbsp;,nein,,20,critical,20,80,b,80b,Henry Ford,1908,Ford Model T,Im Jahr 1908 werde ich meine Erfindung "Ford Model T" vermarkten%2C das schilderte Thomas Edison einer Tageszeitung.,fact mismatch,match,mismatch,11,critical,Creators,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,49,0,critical_trials,NULL,PennController,49,_Trial_,End,1605534659099,17 oder junger,&nbsp;weiblich&nbsp;,nein,,20,critical,20,80,b,80b,Henry Ford,1908,Ford Model T,Im Jahr 1908 werde ich meine Erfindung "Ford Model T" vermarkten%2C das schilderte Thomas Edison einer Tageszeitung.,fact mismatch,match,mismatch,11,critical,Creators,withsquare,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. clickworkerID.
+# 14. age.
+# 15. sex.
+# 16. L2.
+# 17. whichL2.
+# 18. item.
+# 19. type.
+# 20. version.
+# 21. letter.
+# 22. sentence.
+# 23. name.
+# 24. year.
+# 25. fact.
+# 26. photo.
+# 27. full_sentence.
+# 28. condition.
+# 29. life_mismatch.
+# 30. fact_mismatch.
+# 31. year_time.
+# 32. fact_time.
+# 33. year_fact.
+# 34. list.
+# 35. life_status.
+# 36. yes_key.
+# 37. occupation.
+# 38. withsquare.
+# 39. Comments.
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,91,0,post_task_intro,NULL,PennController,4,_Trial_,Start,1605534659106,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,91,0,post_task_intro,NULL,PennController,4,_Trial_,End,1605534660850,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,instructions,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,92,0,post_task,NULL,PennController,90,_Trial_,Start,1605534660852,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,10,post-task,9,post-task,post-task,post-task,post-task,Dinner for One,Romy_Schneider.jpg,post-task,full match,no,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,92,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534661780,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,10,post-task,9,post-task,post-task,post-task,post-task,Dinner for One,Romy_Schneider.jpg,post-task,full match,no,yes,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,92,0,post_task,NULL,PennController,90,_Trial_,End,1605534662786,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,10,post-task,9,post-task,post-task,post-task,post-task,Dinner for One,Romy_Schneider.jpg,post-task,full match,no,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,93,0,post_task,NULL,PennController,91,_Trial_,Start,1605534662794,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,11,post-task,3,post-task,post-task,post-task,post-task,No Country for Old Men,May_Warden.jpg,post-task,full match,no,no,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,93,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534663043,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,11,post-task,3,post-task,post-task,post-task,post-task,No Country for Old Men,May_Warden.jpg,post-task,full match,no,no,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,93,0,post_task,NULL,PennController,91,_Trial_,End,1605534664049,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,11,post-task,3,post-task,post-task,post-task,post-task,No Country for Old Men,May_Warden.jpg,post-task,full match,no,no,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,94,0,post_task,NULL,PennController,92,_Trial_,Start,1605534664055,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,13,post-task,49,post-task,post-task,post-task,post-task,Metropolis,Anne_Cunningham.jpg,post-task,full match,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,94,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534664805,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,13,post-task,49,post-task,post-task,post-task,post-task,Metropolis,Anne_Cunningham.jpg,post-task,full match,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,94,0,post_task,NULL,PennController,92,_Trial_,End,1605534665814,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,13,post-task,49,post-task,post-task,post-task,post-task,Metropolis,Anne_Cunningham.jpg,post-task,full match,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,95,0,post_task,NULL,PennController,93,_Trial_,Start,1605534665823,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,15,post-task,19,post-task,post-task,post-task,post-task,Uptown Funk,Charlie_Chaplin.jpg,post-task,full match,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,95,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534666180,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,15,post-task,19,post-task,post-task,post-task,post-task,Uptown Funk,Charlie_Chaplin.jpg,post-task,full match,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,95,0,post_task,NULL,PennController,93,_Trial_,End,1605534667194,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,15,post-task,19,post-task,post-task,post-task,post-task,Uptown Funk,Charlie_Chaplin.jpg,post-task,full match,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,96,0,post_task,NULL,PennController,94,_Trial_,Start,1605534667202,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,15,post-task,36,post-task,post-task,post-task,post-task,I Shot the Sheriff,Aretha_Franklin.jpg,post-task,full match,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,96,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534667477,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,15,post-task,36,post-task,post-task,post-task,post-task,I Shot the Sheriff,Aretha_Franklin.jpg,post-task,full match,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,96,0,post_task,NULL,PennController,94,_Trial_,End,1605534668487,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,15,post-task,36,post-task,post-task,post-task,post-task,I Shot the Sheriff,Aretha_Franklin.jpg,post-task,full match,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,97,0,post_task,NULL,PennController,95,_Trial_,Start,1605534668495,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,16,post-task,2,post-task,post-task,post-task,post-task,Tschiller - Off Duty,Uma_Thurman.jpg,post-task,fact mismatch,no,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,97,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534668805,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,16,post-task,2,post-task,post-task,post-task,post-task,Tschiller - Off Duty,Uma_Thurman.jpg,post-task,fact mismatch,no,no,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,97,0,post_task,NULL,PennController,95,_Trial_,End,1605534669819,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,16,post-task,2,post-task,post-task,post-task,post-task,Tschiller - Off Duty,Uma_Thurman.jpg,post-task,fact mismatch,no,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,98,0,post_task,NULL,PennController,96,_Trial_,Start,1605534669827,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,17,post-task,15,post-task,post-task,post-task,post-task,Citizen Kane,F.Scott_Fitzgerald.jpg,post-task,fact mismatch,yes,no,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,98,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534670132,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,17,post-task,15,post-task,post-task,post-task,post-task,Citizen Kane,F.Scott_Fitzgerald.jpg,post-task,fact mismatch,yes,no,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,98,0,post_task,NULL,PennController,96,_Trial_,End,1605534671144,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,17,post-task,15,post-task,post-task,post-task,post-task,Citizen Kane,F.Scott_Fitzgerald.jpg,post-task,fact mismatch,yes,no,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,99,0,post_task,NULL,PennController,97,_Trial_,Start,1605534671150,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,17,post-task,30,post-task,post-task,post-task,post-task,Woyzeck,Cristiano_Ronaldo.jpg,post-task,fact mismatch,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,99,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534671506,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,17,post-task,30,post-task,post-task,post-task,post-task,Woyzeck,Cristiano_Ronaldo.jpg,post-task,fact mismatch,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,99,0,post_task,NULL,PennController,97,_Trial_,End,1605534672510,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,17,post-task,30,post-task,post-task,post-task,post-task,Woyzeck,Cristiano_Ronaldo.jpg,post-task,fact mismatch,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,100,0,post_task,NULL,PennController,98,_Trial_,Start,1605534672515,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,17,post-task,33,post-task,post-task,post-task,post-task,Meuterei auf der Bounty,Abraham_Lincoln.jpg,post-task,fact mismatch,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,100,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534672756,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,17,post-task,33,post-task,post-task,post-task,post-task,Meuterei auf der Bounty,Abraham_Lincoln.jpg,post-task,fact mismatch,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,100,0,post_task,NULL,PennController,98,_Trial_,End,1605534673766,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,17,post-task,33,post-task,post-task,post-task,post-task,Meuterei auf der Bounty,Abraham_Lincoln.jpg,post-task,fact mismatch,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,101,0,post_task,NULL,PennController,99,_Trial_,Start,1605534673773,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,20,post-task,10,post-task,post-task,post-task,post-task,Twilight: New Moon,Greta_Thunberg.jpg,post-task,fact mismatch,no,yes,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,101,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534674117,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,20,post-task,10,post-task,post-task,post-task,post-task,Twilight: New Moon,Greta_Thunberg.jpg,post-task,fact mismatch,no,yes,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,101,0,post_task,NULL,PennController,99,_Trial_,End,1605534675127,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,20,post-task,10,post-task,post-task,post-task,post-task,Twilight: New Moon,Greta_Thunberg.jpg,post-task,fact mismatch,no,yes,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,102,0,post_task,NULL,PennController,100,_Trial_,Start,1605534675130,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,5,post-task,post-task,post-task,post-task,Love the Way You Lie,Emmanuel_Macron.jpg,post-task,life mismatch,no,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,102,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534675442,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,5,post-task,post-task,post-task,post-task,Love the Way You Lie,Emmanuel_Macron.jpg,post-task,life mismatch,no,no,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,102,0,post_task,NULL,PennController,100,_Trial_,End,1605534676446,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,5,post-task,post-task,post-task,post-task,Love the Way You Lie,Emmanuel_Macron.jpg,post-task,life mismatch,no,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,103,0,post_task,NULL,PennController,101,_Trial_,Start,1605534676448,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,20,post-task,post-task,post-task,post-task,Cream,Falco.jpg,post-task,life mismatch,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,103,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534676899,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,20,post-task,post-task,post-task,post-task,Cream,Falco.jpg,post-task,life mismatch,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,103,0,post_task,NULL,PennController,101,_Trial_,End,1605534677908,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,20,post-task,post-task,post-task,post-task,Cream,Falco.jpg,post-task,life mismatch,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,104,0,post_task,NULL,PennController,102,_Trial_,Start,1605534677911,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,35,post-task,post-task,post-task,post-task,Shape of You,Christopher_Lee.jpg,post-task,life mismatch,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,104,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534678387,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,35,post-task,post-task,post-task,post-task,Shape of You,Christopher_Lee.jpg,post-task,life mismatch,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,104,0,post_task,NULL,PennController,102,_Trial_,End,1605534679394,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,35,post-task,post-task,post-task,post-task,Shape of You,Christopher_Lee.jpg,post-task,life mismatch,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,105,0,post_task,NULL,PennController,103,_Trial_,Start,1605534679397,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,41,post-task,post-task,post-task,post-task,My Fair Lady,Laura_Reitsch.jpg,post-task,life mismatch,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,105,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534679827,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,41,post-task,post-task,post-task,post-task,My Fair Lady,Laura_Reitsch.jpg,post-task,life mismatch,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,105,0,post_task,NULL,PennController,103,_Trial_,End,1605534680831,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,25,post-task,41,post-task,post-task,post-task,post-task,My Fair Lady,Laura_Reitsch.jpg,post-task,life mismatch,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,106,0,post_task,NULL,PennController,104,_Trial_,Start,1605534680835,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,28,post-task,12,post-task,post-task,post-task,post-task,Becks letzter Sommer,Muhammad_Ali.jpg,post-task,life mismatch,yes,no,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,106,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534681395,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,28,post-task,12,post-task,post-task,post-task,post-task,Becks letzter Sommer,Muhammad_Ali.jpg,post-task,life mismatch,yes,no,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,106,0,post_task,NULL,PennController,104,_Trial_,End,1605534682400,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,28,post-task,12,post-task,post-task,post-task,post-task,Becks letzter Sommer,Muhammad_Ali.jpg,post-task,life mismatch,yes,no,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,107,0,post_task,NULL,PennController,105,_Trial_,Start,1605534682403,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,28,post-task,21,post-task,post-task,post-task,post-task,Sexual Healing,Scarlett_Johansson.jpg,post-task,life-fact mismatch,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,107,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534682851,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,28,post-task,21,post-task,post-task,post-task,post-task,Sexual Healing,Scarlett_Johansson.jpg,post-task,life-fact mismatch,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,107,0,post_task,NULL,PennController,105,_Trial_,End,1605534683855,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,28,post-task,21,post-task,post-task,post-task,post-task,Sexual Healing,Scarlett_Johansson.jpg,post-task,life-fact mismatch,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,108,0,post_task,NULL,PennController,106,_Trial_,Start,1605534683858,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,28,post-task,29,post-task,post-task,post-task,post-task,Das Schweigen der Lämmer,Steven_Spielberg.jpg,post-task,life-fact mismatch,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,108,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534684338,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,28,post-task,29,post-task,post-task,post-task,post-task,Das Schweigen der Lämmer,Steven_Spielberg.jpg,post-task,life-fact mismatch,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,108,0,post_task,NULL,PennController,106,_Trial_,End,1605534685343,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,28,post-task,29,post-task,post-task,post-task,post-task,Das Schweigen der Lämmer,Steven_Spielberg.jpg,post-task,life-fact mismatch,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,109,0,post_task,NULL,PennController,107,_Trial_,Start,1605534685345,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,30,post-task,8,post-task,post-task,post-task,post-task,Der mit dem Wolf tanzt,Joaquin_Phoenix.jpg,post-task,life-fact mismatch,no,yes,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,109,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534685700,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,30,post-task,8,post-task,post-task,post-task,post-task,Der mit dem Wolf tanzt,Joaquin_Phoenix.jpg,post-task,life-fact mismatch,no,yes,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,109,0,post_task,NULL,PennController,107,_Trial_,End,1605534686712,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,30,post-task,8,post-task,post-task,post-task,post-task,Der mit dem Wolf tanzt,Joaquin_Phoenix.jpg,post-task,life-fact mismatch,no,yes,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,110,0,post_task,NULL,PennController,108,_Trial_,Start,1605534686717,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,34,post-task,45,post-task,post-task,post-task,post-task,Call Me Maybe,Stefan_Beck.jpg,post-task,life-fact mismatch,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,110,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534687158,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,34,post-task,45,post-task,post-task,post-task,post-task,Call Me Maybe,Stefan_Beck.jpg,post-task,life-fact mismatch,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,110,0,post_task,NULL,PennController,108,_Trial_,End,1605534688170,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,34,post-task,45,post-task,post-task,post-task,post-task,Call Me Maybe,Stefan_Beck.jpg,post-task,life-fact mismatch,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,111,0,post_task,NULL,PennController,109,_Trial_,Start,1605534688177,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,35,post-task,1,post-task,post-task,post-task,post-task,Max und Moritz,Emma_Watson.jpg,post-task,life-fact mismatch,no,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,111,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534688804,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,35,post-task,1,post-task,post-task,post-task,post-task,Max und Moritz,Emma_Watson.jpg,post-task,life-fact mismatch,no,no,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,111,0,post_task,NULL,PennController,109,_Trial_,End,1605534689816,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,35,post-task,1,post-task,post-task,post-task,post-task,Max und Moritz,Emma_Watson.jpg,post-task,life-fact mismatch,no,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,112,0,post_task,NULL,PennController,110,_Trial_,Start,1605534689823,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,35,post-task,28,post-task,post-task,post-task,post-task,Venezuela,Angela_Merkel.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,112,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534690374,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,35,post-task,28,post-task,post-task,post-task,post-task,Venezuela,Angela_Merkel.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,112,0,post_task,NULL,PennController,110,_Trial_,End,1605534691384,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,35,post-task,28,post-task,post-task,post-task,post-task,Venezuela,Angela_Merkel.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,113,0,post_task,NULL,PennController,111,_Trial_,Start,1605534691390,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,35,post-task,38,post-task,post-task,post-task,post-task,Der Zauberberg,Anne_Frank.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,113,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534692341,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,35,post-task,38,post-task,post-task,post-task,post-task,Der Zauberberg,Anne_Frank.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,113,0,post_task,NULL,PennController,111,_Trial_,End,1605534693358,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,35,post-task,38,post-task,post-task,post-task,post-task,Der Zauberberg,Anne_Frank.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,114,0,post_task,NULL,PennController,112,_Trial_,Start,1605534693366,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,36,post-task,46,post-task,post-task,post-task,post-task,Hamlet,Harrison_Bradley.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,114,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534693829,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,36,post-task,46,post-task,post-task,post-task,post-task,Hamlet,Harrison_Bradley.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,114,0,post_task,NULL,PennController,112,_Trial_,End,1605534694839,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,36,post-task,46,post-task,post-task,post-task,post-task,Hamlet,Harrison_Bradley.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,115,0,post_task,NULL,PennController,113,_Trial_,Start,1605534694849,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,14,post-task,post-task,post-task,post-task,Ferrari,Franka_Potente.jpg,post-task,real,yes,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,115,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534695428,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,14,post-task,post-task,post-task,post-task,Ferrari,Franka_Potente.jpg,post-task,real,yes,no,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,115,0,post_task,NULL,PennController,113,_Trial_,End,1605534696441,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,14,post-task,post-task,post-task,post-task,Ferrari,Franka_Potente.jpg,post-task,real,yes,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,116,0,post_task,NULL,PennController,114,_Trial_,Start,1605534696450,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,34,post-task,post-task,post-task,post-task,Zurück in die Zukunft,Tupac.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,116,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534696901,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,34,post-task,post-task,post-task,post-task,Zurück in die Zukunft,Tupac.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,116,0,post_task,NULL,PennController,114,_Trial_,End,1605534697913,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,34,post-task,post-task,post-task,post-task,Zurück in die Zukunft,Tupac.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,117,0,post_task,NULL,PennController,115,_Trial_,Start,1605534697919,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,37,post-task,post-task,post-task,post-task,Apocalypse Now,Ludwig_van_Beethoven.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,117,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534698405,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,37,post-task,post-task,post-task,post-task,Apocalypse Now,Ludwig_van_Beethoven.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,117,0,post_task,NULL,PennController,115,_Trial_,End,1605534699416,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,37,post-task,post-task,post-task,post-task,Apocalypse Now,Ludwig_van_Beethoven.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,118,0,post_task,NULL,PennController,116,_Trial_,Start,1605534699419,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,50,post-task,post-task,post-task,post-task,Blade Runner,Leslie_Brown.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,118,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534700036,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,50,post-task,post-task,post-task,post-task,Blade Runner,Leslie_Brown.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,118,0,post_task,NULL,PennController,116,_Trial_,End,1605534701049,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,39,post-task,50,post-task,post-task,post-task,post-task,Blade Runner,Leslie_Brown.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,119,0,post_task,NULL,PennController,117,_Trial_,Start,1605534701056,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,40,post-task,6,post-task,post-task,post-task,post-task,Der König der Löwen,Stephen_King.jpg,post-task,real,no,yes,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,119,0,post_task,NULL,Key,q_post_task,PressedKey,F,1605534707557,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,40,post-task,6,post-task,post-task,post-task,post-task,Der König der Löwen,Stephen_King.jpg,post-task,real,no,yes,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,119,0,post_task,NULL,PennController,117,_Trial_,End,1605534708569,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,40,post-task,6,post-task,post-task,post-task,post-task,Der König der Löwen,Stephen_King.jpg,post-task,real,no,yes,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,120,0,post_task,NULL,PennController,118,_Trial_,Start,1605534708576,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,42,post-task,17,post-task,post-task,post-task,post-task,Ghostbusters,Namika.jpg,post-task,real,yes,yes,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,120,0,post_task,NULL,Key,q_post_task,PressedKey,F,1605534708933,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,42,post-task,17,post-task,post-task,post-task,post-task,Ghostbusters,Namika.jpg,post-task,real,yes,yes,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,120,0,post_task,NULL,PennController,118,_Trial_,End,1605534709949,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,42,post-task,17,post-task,post-task,post-task,post-task,Ghostbusters,Namika.jpg,post-task,real,yes,yes,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,121,0,post_task,NULL,PennController,119,_Trial_,Start,1605534709958,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,42,post-task,22,post-task,post-task,post-task,post-task,Friends,Meryl_Streep.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,121,0,post_task,NULL,Key,q_post_task,PressedKey,F,1605534710197,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,42,post-task,22,post-task,post-task,post-task,post-task,Friends,Meryl_Streep.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,121,0,post_task,NULL,PennController,119,_Trial_,End,1605534711208,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,42,post-task,22,post-task,post-task,post-task,post-task,Friends,Meryl_Streep.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,122,0,post_task,NULL,PennController,120,_Trial_,Start,1605534711215,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,42,post-task,32,post-task,post-task,post-task,post-task,Australien,Nikola_Tesla.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,122,0,post_task,NULL,Key,q_post_task,PressedKey,F,1605534711588,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,42,post-task,32,post-task,post-task,post-task,post-task,Australien,Nikola_Tesla.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,122,0,post_task,NULL,PennController,120,_Trial_,End,1605534712598,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,42,post-task,32,post-task,post-task,post-task,post-task,Australien,Nikola_Tesla.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,123,0,post_task,NULL,PennController,121,_Trial_,Start,1605534712606,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,44,post-task,13,post-task,post-task,post-task,post-task,Der Hobbit,Lionel_Messi.jpg,post-task,real,yes,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,123,0,post_task,NULL,Key,q_post_task,PressedKey,F,1605534712948,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,44,post-task,13,post-task,post-task,post-task,post-task,Der Hobbit,Lionel_Messi.jpg,post-task,real,yes,no,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,123,0,post_task,NULL,PennController,121,_Trial_,End,1605534713954,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,44,post-task,13,post-task,post-task,post-task,post-task,Der Hobbit,Lionel_Messi.jpg,post-task,real,yes,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,124,0,post_task,NULL,PennController,122,_Trial_,Start,1605534713961,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,44,post-task,39,post-task,post-task,post-task,post-task,Faust,Agatha_Christie.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,124,0,post_task,NULL,Key,q_post_task,PressedKey,F,1605534714692,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,44,post-task,39,post-task,post-task,post-task,post-task,Faust,Agatha_Christie.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,124,0,post_task,NULL,PennController,122,_Trial_,End,1605534715703,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,44,post-task,39,post-task,post-task,post-task,post-task,Faust,Agatha_Christie.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,125,0,post_task,NULL,PennController,123,_Trial_,Start,1605534715710,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,44,post-task,40,post-task,post-task,post-task,post-task,SpaceX,William_Shakespeare.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,125,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534716210,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,44,post-task,40,post-task,post-task,post-task,post-task,SpaceX,William_Shakespeare.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,125,0,post_task,NULL,PennController,123,_Trial_,End,1605534717219,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,44,post-task,40,post-task,post-task,post-task,post-task,SpaceX,William_Shakespeare.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,126,0,post_task,NULL,PennController,124,_Trial_,Start,1605534717226,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,48,post-task,47,post-task,post-task,post-task,post-task,Forrest Gump,Peter_Hunt.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,126,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534717556,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,48,post-task,47,post-task,post-task,post-task,post-task,Forrest Gump,Peter_Hunt.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,126,0,post_task,NULL,PennController,124,_Trial_,End,1605534718566,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,48,post-task,47,post-task,post-task,post-task,post-task,Forrest Gump,Peter_Hunt.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,127,0,post_task,NULL,PennController,125,_Trial_,Start,1605534718571,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,48,post-task,48,post-task,post-task,post-task,post-task,Goodfellas,Theresa_Stark.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,127,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534718868,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,48,post-task,48,post-task,post-task,post-task,post-task,Goodfellas,Theresa_Stark.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,127,0,post_task,NULL,PennController,125,_Trial_,End,1605534719877,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,48,post-task,48,post-task,post-task,post-task,post-task,Goodfellas,Theresa_Stark.jpg,post-task,real,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,128,0,post_task,NULL,PennController,126,_Trial_,Start,1605534719885,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,50,post-task,7,post-task,post-task,post-task,post-task,The Dark Knight,Virginia_Woolf.jpg,post-task,real,no,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,128,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534720549,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,50,post-task,7,post-task,post-task,post-task,post-task,The Dark Knight,Virginia_Woolf.jpg,post-task,real,no,yes,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,128,0,post_task,NULL,PennController,126,_Trial_,End,1605534721560,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,50,post-task,7,post-task,post-task,post-task,post-task,The Dark Knight,Virginia_Woolf.jpg,post-task,real,no,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,129,0,post_task,NULL,PennController,127,_Trial_,Start,1605534721568,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,58,post-task,18,post-task,post-task,post-task,post-task,Breaking Bad,Stanley_Kubrick.jpg,post-task,real,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,129,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534722037,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,58,post-task,18,post-task,post-task,post-task,post-task,Breaking Bad,Stanley_Kubrick.jpg,post-task,real,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,129,0,post_task,NULL,PennController,127,_Trial_,End,1605534723047,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,58,post-task,18,post-task,post-task,post-task,post-task,Breaking Bad,Stanley_Kubrick.jpg,post-task,real,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,130,0,post_task,NULL,PennController,128,_Trial_,Start,1605534723053,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,58,post-task,23,post-task,post-task,post-task,post-task,Wall-E,Axl_Rose.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,130,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534723316,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,58,post-task,23,post-task,post-task,post-task,post-task,Wall-E,Axl_Rose.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,130,0,post_task,NULL,PennController,128,_Trial_,End,1605534724325,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,58,post-task,23,post-task,post-task,post-task,post-task,Wall-E,Axl_Rose.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,131,0,post_task,NULL,PennController,129,_Trial_,Start,1605534724334,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,58,post-task,25,post-task,post-task,post-task,post-task,Stranger Things,Avril_Lavigne.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,131,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534724562,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,58,post-task,25,post-task,post-task,post-task,post-task,Stranger Things,Avril_Lavigne.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,131,0,post_task,NULL,PennController,129,_Trial_,End,1605534725571,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,58,post-task,25,post-task,post-task,post-task,post-task,Stranger Things,Avril_Lavigne.jpg,post-task,real,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,132,0,post_task,NULL,PennController,130,_Trial_,Start,1605534725578,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,11,post-task,post-task,post-task,post-task,The Leaves Have Fallen,Mike_Myers.jpg,post-task,fake,yes,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,132,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534725829,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,11,post-task,post-task,post-task,post-task,The Leaves Have Fallen,Mike_Myers.jpg,post-task,fake,yes,no,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,132,0,post_task,NULL,PennController,130,_Trial_,End,1605534726840,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,11,post-task,post-task,post-task,post-task,The Leaves Have Fallen,Mike_Myers.jpg,post-task,fake,yes,no,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,133,0,post_task,NULL,PennController,131,_Trial_,Start,1605534726847,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,26,post-task,post-task,post-task,post-task,Dragons vs. Cars,Bjoerk.png,post-task,fake,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,133,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534727125,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,26,post-task,post-task,post-task,post-task,Dragons vs. Cars,Bjoerk.png,post-task,fake,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,133,0,post_task,NULL,PennController,131,_Trial_,End,1605534728138,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,26,post-task,post-task,post-task,post-task,Dragons vs. Cars,Bjoerk.png,post-task,fake,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,134,0,post_task,NULL,PennController,132,_Trial_,Start,1605534728144,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,31,post-task,post-task,post-task,post-task,Der Vergessene,Malcolm_X.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,134,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534728421,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,31,post-task,post-task,post-task,post-task,Der Vergessene,Malcolm_X.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,134,0,post_task,NULL,PennController,132,_Trial_,End,1605534729431,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,31,post-task,post-task,post-task,post-task,Der Vergessene,Malcolm_X.jpg,post-task,real,real,real,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,135,0,post_task,NULL,PennController,133,_Trial_,Start,1605534729438,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,42,post-task,post-task,post-task,post-task,Kommissar Bob,Ingeborg_Geiger.jpg,post-task,fake,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,135,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534730084,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,42,post-task,post-task,post-task,post-task,Kommissar Bob,Ingeborg_Geiger.jpg,post-task,fake,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,135,0,post_task,NULL,PennController,133,_Trial_,End,1605534731094,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,59,post-task,42,post-task,post-task,post-task,post-task,Kommissar Bob,Ingeborg_Geiger.jpg,post-task,fake,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,136,0,post_task,NULL,PennController,134,_Trial_,Start,1605534731100,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,68,post-task,16,post-task,post-task,post-task,post-task,Lisbeth & Karlchen,David_Bowie.jpg,post-task,fake,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,136,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534731427,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,68,post-task,16,post-task,post-task,post-task,post-task,Lisbeth & Karlchen,David_Bowie.jpg,post-task,fake,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,136,0,post_task,NULL,PennController,134,_Trial_,End,1605534732438,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,68,post-task,16,post-task,post-task,post-task,post-task,Lisbeth & Karlchen,David_Bowie.jpg,post-task,fake,yes,yes,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,137,0,post_task,NULL,PennController,135,_Trial_,Start,1605534732445,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,68,post-task,24,post-task,post-task,post-task,post-task,Die Zombies sind unter uns,Denzel_Washington.jpg,post-task,fake,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,137,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534732773,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,68,post-task,24,post-task,post-task,post-task,post-task,Die Zombies sind unter uns,Denzel_Washington.jpg,post-task,fake,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,137,0,post_task,NULL,PennController,135,_Trial_,End,1605534733783,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,68,post-task,24,post-task,post-task,post-task,post-task,Die Zombies sind unter uns,Denzel_Washington.jpg,post-task,fake,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,138,0,post_task,NULL,PennController,136,_Trial_,Start,1605534733789,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,84,post-task,4,post-task,post-task,post-task,post-task,Schuld und Bargeld,Fritz_Lang.jpg,post-task,fake,no,no,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,138,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534734116,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,84,post-task,4,post-task,post-task,post-task,post-task,Schuld und Bargeld,Fritz_Lang.jpg,post-task,fake,no,no,old,old,match,11,dead,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,138,0,post_task,NULL,PennController,136,_Trial_,End,1605534735128,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,84,post-task,4,post-task,post-task,post-task,post-task,Schuld und Bargeld,Fritz_Lang.jpg,post-task,fake,no,no,old,old,match,11,dead,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,139,0,post_task,NULL,PennController,137,_Trial_,Start,1605534735131,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,84,post-task,27,post-task,post-task,post-task,post-task,Geschichten aus Krakau,Haruki_Murakami.png,post-task,fake,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,139,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534735492,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,84,post-task,27,post-task,post-task,post-task,post-task,Geschichten aus Krakau,Haruki_Murakami.png,post-task,fake,real,real,old,old,match,11,alive,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,139,0,post_task,NULL,PennController,137,_Trial_,End,1605534736502,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,84,post-task,27,post-task,post-task,post-task,post-task,Geschichten aus Krakau,Haruki_Murakami.png,post-task,fake,real,real,old,old,match,11,alive,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,140,0,post_task,NULL,PennController,138,_Trial_,Start,1605534736505,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,84,post-task,43,post-task,post-task,post-task,post-task,Krieg der Viren,Florian_Maelzer.jpg,post-task,fake,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,140,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534736853,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,84,post-task,43,post-task,post-task,post-task,post-task,Krieg der Viren,Florian_Maelzer.jpg,post-task,fake,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,140,0,post_task,NULL,PennController,138,_Trial_,End,1605534737863,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,84,post-task,43,post-task,post-task,post-task,post-task,Krieg der Viren,Florian_Maelzer.jpg,post-task,fake,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,141,0,post_task,NULL,PennController,139,_Trial_,Start,1605534737869,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,85,post-task,44,post-task,post-task,post-task,post-task,Raging Crocodiles,Christian_Gross.jpg,post-task,fake,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,141,0,post_task,NULL,Key,q_post_task,PressedKey,J,1605534738373,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,85,post-task,44,post-task,post-task,post-task,post-task,Raging Crocodiles,Christian_Gross.jpg,post-task,fake,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,Wait success
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,141,0,post_task,NULL,PennController,139,_Trial_,End,1605534739387,aliona,17 oder junger,&nbsp;weiblich&nbsp;,nein,,85,post-task,44,post-task,post-task,post-task,post-task,Raging Crocodiles,Christian_Gross.jpg,post-task,fake,fake,fake,old,old,match,11,fake,post-task,post-task,withsquare,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,142,0,end_post_task,NULL,PennController,5,_Trial_,Start,1605534739393,NULL
+1605534743,4a4de22c82f918db54832053cf546bcf,PennController,142,0,end_post_task,NULL,PennController,5,_Trial_,End,1605534742059,NULL
